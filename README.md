@@ -1,6 +1,6 @@
 ### ✅ **Security Testing Summary using Nuclei**
 
-We conducted a **deep security assessment** of the website using [**Nuclei**](https://github.com/projectdiscovery/nuclei) across key risk categories. The goal was to identify common vulnerabilities, misconfigurations, and exposed assets.
+We conducted a **security assessment** of the website using [**Nuclei**](https://github.com/projectdiscovery/nuclei) across key risk categories. The goal was to identify common vulnerabilities, misconfigurations, and exposed assets.
 
 ---
 
